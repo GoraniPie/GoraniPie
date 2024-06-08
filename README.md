@@ -34,25 +34,25 @@ Web :
 
 Framework(Web) :
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white"/>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 DB :
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Realtime Database](https://img.shields.io/badge/-Realtime%20Database-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flate&logo=firebase&logoColor=black)
+![Realtime Database](https://img.shields.io/badge/-Realtime%20Database-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 Mobile :
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 
 APIs & Services : <br/>
-![Google Places API](https://img.shields.io/badge/-Google%20Places%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Google Places API](https://img.shields.io/badge/-Google%20Places%20API-4285F4?style=flat&logo=google&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat&logo=googlemaps&logoColor=white)
 
-![Firebase Authentication](https://img.shields.io/badge/-Firebase%20Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firebase Test Lab](https://img.shields.io/badge/-Firebase%20Test%20Lab-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firebase Messaging](https://img.shields.io/badge/-Firebase%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase Authentication](https://img.shields.io/badge/-Firebase%20Authentication-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase Test Lab](https://img.shields.io/badge/-Firebase%20Test%20Lab-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase Messaging](https://img.shields.io/badge/-Firebase%20Messaging-FFCA28?style=flat&logo=firebase&logoColor=black)
 <br/>
 <br/>
 <br/>
